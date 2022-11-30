@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2022-11-30
+  Features:
+    - Mod pack that includes Zirconium, Silica & Silicon, Aluminum, and Foundry.
+      Generally, this adds a lot of intermediate products to the production chains.
+    - Updates default settings to increase intermediate products a bit.
+    - Please note, this modpack is a subset of Very BZ and adds nothing more.
